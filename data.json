@@ -1,18 +1,5 @@
 [
  {    
-   "SKU": "COLOURS",    
-   "DESIGN": "",    
-   "DESCRIPTION": "",    
-   "ACCORDION": "",    
-   "PLATFORM": "",    
-   "BARCODE": "",    
-   "ORDER QTY PACK OF  6": "",    
-   "FIELD8": "",    
-   "FIELD9": "",    
-   "STYLE": "Colours",    
-   "STATUS": ""  
-  },  
-  {    
    "SKU": "101000 ",    
    "DESIGN": "",    
    "DESCRIPTION": "Black",    
@@ -21,7 +8,7 @@
    "BARCODE": "859184004454",    
    "ORDER QTY PACK OF  6": "",    
    "FIELD8": "",    
-   "FIELD9": "$0.00",    
+   "FIELD9": "",    
    "STYLE": "Colours",    
    "STATUS": ""  
   },  
@@ -34,7 +21,7 @@
    "BARCODE": "815373024191",    
    "ORDER QTY PACK OF  6": "",    
    "FIELD8": "",    
-   "FIELD9": "$0.00",    
+   "FIELD9": "",    
    "STYLE": "Colours",    
    "STATUS": ""  
   },  
@@ -47,7 +34,7 @@
    "BARCODE": "859184004317",    
    "ORDER QTY PACK OF  6": "",    
    "FIELD8": "",    
-   "FIELD9": "$0.00",    
+   "FIELD9": "",    
    "STYLE": "Colours",    
    "STATUS": ""  
   },  
@@ -60,7 +47,7 @@
    "BARCODE": "815373020742",    
    "ORDER QTY PACK OF  6": "",    
    "FIELD8": "",    
-   "FIELD9": "$0.00",    
+   "FIELD9": "",    
    "STYLE": "Colours",    
    "STATUS": ""  
   },  
@@ -73,7 +60,7 @@
    "BARCODE": "815373025471",    
    "ORDER QTY PACK OF  6": "",    
    "FIELD8": "",    
-   "FIELD9": "$0.00",    
+   "FIELD9": "",    
    "STYLE": "Colours",    
    "STATUS": "NEW" 
   },  
@@ -86,24 +73,11 @@
    "BARCODE": "815373025822",    
    "ORDER QTY PACK OF  6": "",    
    "FIELD8": "",    
-   "FIELD9": "$0.00",    
+   "FIELD9": "",    
    "STYLE": "Colours",    
    "STATUS": ""  
   },
   {
-   "SKU": "MANDALAS",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
-   "FIELD9": "",
-   "STYLE": "MANDALAS",
-   "STATUS": ""
- },
- {
    "SKU": "101174 ",
    "DESIGN": "",
    "DESCRIPTION": "Peace Sky",
@@ -112,7 +86,7 @@
    "BARCODE": "815373021336",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "MANDALAS",
    "STATUS": ""
  },
@@ -125,7 +99,7 @@
    "BARCODE": "815373021343",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "MANDALAS",
    "STATUS": ""
  },
@@ -138,7 +112,7 @@
    "BARCODE": "815373022272",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "MANDALAS",
    "STATUS": ""
  },
@@ -151,7 +125,7 @@
    "BARCODE": "815373024696",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "MANDALAS",
    "STATUS": ""
  },
@@ -164,7 +138,7 @@
    "BARCODE": "815373020872",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "MANDALAS",
    "STATUS": ""
  },
@@ -177,7 +151,7 @@
    "BARCODE": "842978104935",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "MANDALAS",
    "STATUS": "NEW"
  },
@@ -188,19 +162,6 @@
    "ACCORDION": "Black",
    "PLATFORM": "Black",
    "BARCODE": "842978100906",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
-   "FIELD9": "$0.00",
-   "STYLE": "MANDALAS",
-   "STATUS": ""
- },
- {
-   "SKU": "MARBLE",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
    "FIELD9": "",
@@ -216,7 +177,7 @@
    "BARCODE": "815373021374",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "MANDALAS",
    "STATUS": ""
  },
@@ -229,7 +190,7 @@
    "BARCODE": "815373022258",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "MANDALAS",
    "STATUS": ""
  },
@@ -242,7 +203,7 @@
    "BARCODE": "815373023194",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "MANDALAS",
    "STATUS": ""
  },
@@ -255,7 +216,7 @@
    "BARCODE": "815373023231",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "",
    "STATUS": ""
  },
@@ -268,7 +229,7 @@
    "BARCODE": "815373024405",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "MANDALAS",
    "STATUS": ""
  },
@@ -281,7 +242,7 @@
    "BARCODE": "842978102337",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "MANDALAS",
    "STATUS": "NEW"
  },
@@ -294,7 +255,7 @@
    "BARCODE": "842978102276",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "MANDALAS",
    "STATUS": "NEW"
  },
@@ -307,21 +268,8 @@
    "BARCODE": "815373024504",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
-   "STYLE": "MANDALAS",
-   "STATUS": ""
- },
- {
-   "SKU": "GALACTIC",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "",
+   "STYLE": "MANDALAS",
    "STATUS": ""
  },
  {
@@ -333,7 +281,7 @@
    "BARCODE": "815373020841",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "GALACTIC",
    "STATUS": ""
  },
@@ -346,7 +294,7 @@
    "BARCODE": "842978100951",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "GALACTIC",
    "STATUS": ""
  },
@@ -359,7 +307,7 @@
    "BARCODE": "815373024535",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "GALACTIC",
    "STATUS": ""
  },
@@ -372,7 +320,7 @@
    "BARCODE": "842978104003",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "GALACTIC",
    "STATUS": "NEW"
  },
@@ -385,7 +333,7 @@
    "BARCODE": "842978102528",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "GALACTIC",
    "STATUS": "NEW"
  },
@@ -398,7 +346,7 @@
    "BARCODE": "842978110837",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "GALACTIC",
    "STATUS": "NEW"
  },
@@ -411,22 +359,9 @@
    "BARCODE": "842978110813",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "GALACTIC",
    "STATUS": "NEW"
- },
- {
-   "SKU": "ANIMALS",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
-   "FIELD9": "",
-   "STYLE": "",
-   "STATUS": ""
  },
  {
    "SKU": "800021 ",
@@ -437,7 +372,7 @@
    "BARCODE": "842978110585",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": "NEW"
  },
@@ -450,7 +385,7 @@
    "BARCODE": "842978110622",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": "NEW"
  },
@@ -463,7 +398,7 @@
    "BARCODE": "842978110646",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": "NEW"
  },
@@ -476,7 +411,7 @@
    "BARCODE": "842978103556",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": "NEW"
  },
@@ -489,7 +424,7 @@
    "BARCODE": "842978103266",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": "NEW"
  },
@@ -502,7 +437,7 @@
    "BARCODE": "842978110639",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": "NEW"
  },
@@ -515,7 +450,7 @@
    "BARCODE": "842978110653",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": "NEW"
  },
@@ -528,7 +463,7 @@
    "BARCODE": "842978102252",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": "NEW"
  },
@@ -541,7 +476,7 @@
    "BARCODE": "842978110714",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": "NEW"
  },
@@ -554,7 +489,7 @@
    "BARCODE": "842978103273",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": "NEW"
  },
@@ -567,7 +502,7 @@
    "BARCODE": "842978110721",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": "NEW"
  },
@@ -580,7 +515,7 @@
    "BARCODE": "815373024672",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": ""
  },
@@ -593,7 +528,7 @@
    "BARCODE": "815373022463",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": ""
  },
@@ -606,7 +541,7 @@
    "BARCODE": "815373023743",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": ""
  },
@@ -619,7 +554,7 @@
    "BARCODE": "815373024689",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": ""
  },
@@ -632,7 +567,7 @@
    "BARCODE": "815373024481",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ANIMALS",
    "STATUS": ""
  },
@@ -645,21 +580,8 @@
    "BARCODE": "815373022555",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
-   "STYLE": "ANIMALS",
-   "STATUS": ""
- },
- {
-   "SKU": "SPORTS",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "",
+   "STYLE": "ANIMALS",
    "STATUS": ""
  },
  {
@@ -671,7 +593,7 @@
    "BARCODE": "815373020049",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "SPORTS",
    "STATUS": ""
  },
@@ -684,7 +606,7 @@
    "BARCODE": "815373021473",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "SPORTS",
    "STATUS": ""
  },
@@ -697,7 +619,7 @@
    "BARCODE": "815373022906",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "SPORTS",
    "STATUS": ""
  },
@@ -710,7 +632,7 @@
    "BARCODE": "815373020032",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "SPORTS",
    "STATUS": ""
  },
@@ -723,22 +645,9 @@
    "BARCODE": "815373020896",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "SPORTS",
    "STATUS": "New"
- },
- {
-   "SKU": "TRENDING",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
-   "FIELD9": "",
-   "STYLE": "",
-   "STATUS": ""
  },
  {
    "SKU": "101257 ",
@@ -749,7 +658,7 @@
    "BARCODE": "8153730232371",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "TRENDING",
    "STATUS": ""
  },
@@ -762,7 +671,7 @@
    "BARCODE": "815373023330",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "TRENDING",
    "STATUS": ""
  },
@@ -775,7 +684,7 @@
    "BARCODE": "842978100944",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "TRENDING",
    "STATUS": "NEW"
  },
@@ -788,7 +697,7 @@
    "BARCODE": "815373023750",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "TRENDING",
    "STATUS": ""
  },
@@ -801,7 +710,7 @@
    "BARCODE": "815373024634",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "TRENDING",
    "STATUS": ""
  },
@@ -814,7 +723,7 @@
    "BARCODE": "815373022142",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "TRENDING",
    "STATUS": ""
  },
@@ -827,7 +736,7 @@
    "BARCODE": "815373023866",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "TRENDING",
    "STATUS": ""
  },
@@ -840,21 +749,8 @@
    "BARCODE": "815373023880",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
-   "STYLE": "TRENDING",
-   "STATUS": ""
- },
- {
-   "SKU": "FLORAL",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "",
+   "STYLE": "TRENDING",
    "STATUS": ""
  },
  {
@@ -866,7 +762,7 @@
    "BARCODE": "842978110479",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "FLORAL",
    "STATUS": "NEW"
  },
@@ -879,7 +775,7 @@
    "BARCODE": "815373023651",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "FLORAL",
    "STATUS": "NEW"
  },
@@ -892,7 +788,7 @@
    "BARCODE": "815373022074",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "FLORAL",
    "STATUS": ""
  },
@@ -905,7 +801,7 @@
    "BARCODE": "842978110486",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "FLORAL",
    "STATUS": "NEW"
  },
@@ -918,7 +814,7 @@
    "BARCODE": "842978110608",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "FLORAL",
    "STATUS": "NEW"
  },
@@ -931,7 +827,7 @@
    "BARCODE": "8153730220043",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "FLORAL",
    "STATUS": ""
  },
@@ -944,7 +840,7 @@
    "BARCODE": "859184004706",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "FLORAL",
    "STATUS": ""
  },
@@ -957,7 +853,7 @@
    "BARCODE": "815373022050",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "FLORAL",
    "STATUS": ""
  },
@@ -970,22 +866,9 @@
    "BARCODE": "842978102269",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "FLORAL",
    "STATUS": "NEW"
- },
- {
-   "SKU": "SUMMER",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
-   "FIELD9": "",
-   "STYLE": "SUMMER",
-   "STATUS": ""
  },
  {
    "SKU": "101021 ",
@@ -996,7 +879,7 @@
    "BARCODE": "859184004287",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "SUMMER",
    "STATUS": ""
  },
@@ -1009,7 +892,7 @@
    "BARCODE": "815373021923",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "SUMMER",
    "STATUS": ""
  },
@@ -1022,7 +905,7 @@
    "BARCODE": "815373022586",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "SUMMER",
    "STATUS": ""
  },
@@ -1035,7 +918,7 @@
    "BARCODE": "815373022081",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "SUMMER",
    "STATUS": ""
  },
@@ -1048,7 +931,7 @@
    "BARCODE": "815373023170",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "SUMMER",
    "STATUS": ""
  },
@@ -1061,7 +944,7 @@
    "BARCODE": "815373022128",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "SUMMER",
    "STATUS": ""
  },
@@ -1087,7 +970,7 @@
    "BARCODE": "842978111841",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "EYE BENDER",
    "STATUS": "NEW"
  },
@@ -1100,22 +983,9 @@
    "BARCODE": "842978106595",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "EYE BENDER",
    "STATUS": "NEW"
- },
- {
-   "SKU": "FLAGS",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
-   "FIELD9": "",
-   "STYLE": "FLAGS",
-   "STATUS": ""
  },
  {
    "SKU": "101145 ",
@@ -1126,7 +996,7 @@
    "BARCODE": "81537302104",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "FLAGS",
    "STATUS": ""
  },
@@ -1139,7 +1009,7 @@
    "BARCODE": "815373020070",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "FLAGS",
    "STATUS": ""
  },
@@ -1152,7 +1022,7 @@
    "BARCODE": "815373020667",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "FLAGS",
    "STATUS": ""
  },
@@ -1165,7 +1035,7 @@
    "BARCODE": "815373020650",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "FLAGS",
    "STATUS": ""
  },
@@ -1178,21 +1048,8 @@
    "BARCODE": "815373020520",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
-   "STYLE": "FLAGS",
-   "STATUS": ""
- },
- {
-   "SKU": "ALUMINUM",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "",
+   "STYLE": "FLAGS",
    "STATUS": ""
  },
  {
@@ -1204,7 +1061,7 @@
    "BARCODE": "815373021008",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ALUMINUM",
    "STATUS": ""
  },
@@ -1217,7 +1074,7 @@
    "BARCODE": "815373020803",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ALUMINUM",
    "STATUS": ""
  },
@@ -1230,7 +1087,7 @@
    "BARCODE": "815373020810",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ALUMINUM",
    "STATUS": ""
  },
@@ -1243,7 +1100,7 @@
    "BARCODE": "815373020827",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "ALUMINUM",
    "STATUS": ""
  },
@@ -1256,21 +1113,8 @@
    "BARCODE": "815373020834",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
-   "STYLE": "ALUMINUM",
-   "STATUS": ""
- },
- {
-   "SKU": "DIAMOND",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "",
+   "STYLE": "ALUMINUM",
    "STATUS": ""
  },
  {
@@ -1282,7 +1126,7 @@
    "BARCODE": "815373024559",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "DIAMOND",
    "STATUS": ""
  },
@@ -1295,7 +1139,7 @@
    "BARCODE": "842978100807",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "DIAMOND",
    "STATUS": ""
  },
@@ -1308,7 +1152,7 @@
    "BARCODE": "815373029943",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "DIAMOND",
    "STATUS": ""
  },
@@ -1321,21 +1165,8 @@
    "BARCODE": "842978100814",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
-   "STYLE": "DIAMOND",
-   "STATUS": ""
- },
- {
-   "SKU": "Licensed: Harry Potter",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "",
+   "STYLE": "DIAMOND",
    "STATUS": ""
  },
  {
@@ -1347,7 +1178,7 @@
    "BARCODE": "815373028519",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Harry Potter",
    "STATUS": "NEW"
  },
@@ -1360,7 +1191,7 @@
    "BARCODE": "815373028533",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Harry Potter",
    "STATUS": "NEW"
  },
@@ -1373,7 +1204,7 @@
    "BARCODE": "815373028540",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Harry Potter",
    "STATUS": "NEW"
  },
@@ -1386,7 +1217,7 @@
    "BARCODE": "815373028489",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Harry Potter",
    "STATUS": "NEW"
  },
@@ -1399,22 +1230,9 @@
    "BARCODE": "815373028496",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Harry Potter",
    "STATUS": "NEW"
- },
- {
-   "SKU": "Licensed: Pokemon",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
-   "FIELD9": "",
-   "STYLE": "Licensed: Pokemon",
-   "STATUS": ""
  },
  {
    "SKU": "101492 ",
@@ -1425,7 +1243,7 @@
    "BARCODE": "815373025020",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Pokemon",
    "STATUS": "NEW"
  },
@@ -1438,7 +1256,7 @@
    "BARCODE": "815373025006",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Pokemon",
    "STATUS": "NEW"
  },
@@ -1451,7 +1269,7 @@
    "BARCODE": "815373025044",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Pokemon",
    "STATUS": "NEW"
  },
@@ -1464,7 +1282,7 @@
    "BARCODE": "815373025013",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Pokemon",
    "STATUS": "NEW"
  },
@@ -1477,7 +1295,7 @@
    "BARCODE": "815373025051",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Pokemon",
    "STATUS": "NEW"
  },
@@ -1490,22 +1308,9 @@
    "BARCODE": "815373025037",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Pokemon",
    "STATUS": "NEW"
- },
- {
-   "SKU": "Licensed: Keith Haring",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
-   "FIELD9": "",
-   "STYLE": "",
-   "STATUS": ""
  },
  {
    "SKU": "101538 ",
@@ -1516,7 +1321,7 @@
    "BARCODE": "815373025846",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Keith Haring",
    "STATUS": ""
  },
@@ -1529,7 +1334,7 @@
    "BARCODE": "815373025877",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Keith Haring",
    "STATUS": ""
  },
@@ -1542,7 +1347,7 @@
    "BARCODE": "815373025853",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "Licensed: Keith Haring",
    "STATUS": ""
  },
@@ -1555,21 +1360,8 @@
    "BARCODE": "815373025860",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
-   "STYLE": "Licensed: Keith Haring",
-   "STATUS": ""
- },
- {
-   "SKU": "PopMount, Combo Pack",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "PopMount, Combo Pack",
+   "STYLE": "Licensed: Keith Haring",
    "STATUS": ""
  },
  {
@@ -1581,7 +1373,7 @@
    "BARCODE": "859184004867",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "PopMount, Combo Pack",
    "STATUS": ""
  },
@@ -1594,7 +1386,7 @@
    "BARCODE": "859184004904",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "PopMount, Combo Pack",
    "STATUS": ""
  },
@@ -1607,7 +1399,7 @@
    "BARCODE": "859184004881",
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
-   "FIELD9": "$0.00",
+   "FIELD9": "",
    "STYLE": "PopMount, Combo Pack",
    "STATUS": ""
  }

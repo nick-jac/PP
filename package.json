@@ -4,5 +4,16 @@
   "main": "index.js",
   "repository": "https://github.com/kahu-2018/Nicks_P_Proj.git",
   "author": "kahu_2018 <fake.@fake.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "knex": "knex",
+    "test": "jest"
+  },  
+  "dependencies": {
+    "knex": "^0.14.2",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
 }
