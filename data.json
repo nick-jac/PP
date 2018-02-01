@@ -1,81 +1,81 @@
 [
- {    
-   "SKU": "101000 ",    
-   "DESIGN": "",    
-   "DESCRIPTION": "Black",    
-   "ACCORDION": "Black ",    
-   "PLATFORM": "Black",    
-   "BARCODE": "859184004454",    
-   "ORDER QTY PACK OF  6": "",    
-   "FIELD8": "",    
-   "FIELD9": "",    
-   "STYLE": "Colours",    
-   "STATUS": ""  
-  },  
-  {    
-   "SKU": "101425 ",    
-   "DESIGN": "",    
-   "DESCRIPTION": "Cascade Water",    
-   "ACCORDION": "Black",    
-   "PLATFORM": "Black",    
-   "BARCODE": "815373024191",    
-   "ORDER QTY PACK OF  6": "",    
-   "FIELD8": "",    
-   "FIELD9": "",    
-   "STYLE": "Colours",    
-   "STATUS": ""  
-  },  
-  {    
-   "SKU": "101027 ",    
-   "DESIGN": "",    
-   "DESCRIPTION": "The Sound",    
-   "ACCORDION": "Black",    
-   "PLATFORM": "Black",    
-   "BARCODE": "859184004317",    
-   "ORDER QTY PACK OF  6": "",    
-   "FIELD8": "",    
-   "FIELD9": "",    
-   "STYLE": "Colours",    
-   "STATUS": ""  
-  },  
-  {    
-   "SKU": "101114 ",    
-   "DESIGN": "",    
-   "DESCRIPTION": "Blush",    
-   "ACCORDION": "Grey",    
-   "PLATFORM": "Grey",    
-   "BARCODE": "815373020742",    
-   "ORDER QTY PACK OF  6": "",    
-   "FIELD8": "",    
-   "FIELD9": "",    
-   "STYLE": "Colours",    
-   "STATUS": ""  
-  },  
-  {    
-   "SKU": "101505 ",    
-   "DESIGN": "",    
-   "DESCRIPTION": "The Bomb",    
-   "ACCORDION": "Grey",    
-   "PLATFORM": "Grey",    
-   "BARCODE": "815373025471",    
-   "ORDER QTY PACK OF  6": "",    
-   "FIELD8": "",    
-   "FIELD9": "",    
-   "STYLE": "Colours",    
-   "STATUS": "NEW" 
-  },  
-  {    
-   "SKU": "101536 ",    
-   "DESIGN": "",    
-   "DESCRIPTION": "Green Cameo",    
-   "ACCORDION": "Black",    
-   "PLATFORM": "Black",    
-   "BARCODE": "815373025822",    
-   "ORDER QTY PACK OF  6": "",    
-   "FIELD8": "",    
-   "FIELD9": "",    
-   "STYLE": "Colours",    
-   "STATUS": ""  
+ {
+   "SKU": "101000 ",
+   "DESIGN": "",
+   "DESCRIPTION": "Black",
+   "ACCORDION": "Black ",
+   "PLATFORM": "Black",
+   "BARCODE": "859184004454",
+   "ORDER QTY PACK OF  6": "",
+   "FIELD8": "",
+   "FIELD9": "",
+   "STYLE": "Colours",
+   "STATUS": ""
+  },
+  {
+   "SKU": "101425 ",
+   "DESIGN": "",
+   "DESCRIPTION": "Cascade Water",
+   "ACCORDION": "Black",
+   "PLATFORM": "Black",
+   "BARCODE": "815373024191",
+   "ORDER QTY PACK OF  6": "",
+   "FIELD8": "",
+   "FIELD9": "",
+   "STYLE": "Colours",
+   "STATUS": ""
+  },
+  {
+   "SKU": "101027 ",
+   "DESIGN": "",
+   "DESCRIPTION": "The Sound",
+   "ACCORDION": "Black",
+   "PLATFORM": "Black",
+   "BARCODE": "859184004317",
+   "ORDER QTY PACK OF  6": "",
+   "FIELD8": "",
+   "FIELD9": "",
+   "STYLE": "Colours",
+   "STATUS": ""
+  },
+  {
+   "SKU": "101114 ",
+   "DESIGN": "",
+   "DESCRIPTION": "Blush",
+   "ACCORDION": "Grey",
+   "PLATFORM": "Grey",
+   "BARCODE": "815373020742",
+   "ORDER QTY PACK OF  6": "",
+   "FIELD8": "",
+   "FIELD9": "",
+   "STYLE": "Colours",
+   "STATUS": ""
+  },
+  {
+   "SKU": "101505 ",
+   "DESIGN": "",
+   "DESCRIPTION": "The Bomb",
+   "ACCORDION": "Grey",
+   "PLATFORM": "Grey",
+   "BARCODE": "815373025471",
+   "ORDER QTY PACK OF  6": "",
+   "FIELD8": "",
+   "FIELD9": "",
+   "STYLE": "Colours",
+   "STATUS": "NEW"
+  },
+  {
+   "SKU": "101536 ",
+   "DESIGN": "",
+   "DESCRIPTION": "Green Cameo",
+   "ACCORDION": "Black",
+   "PLATFORM": "Black",
+   "BARCODE": "815373025822",
+   "ORDER QTY PACK OF  6": "",
+   "FIELD8": "",
+   "FIELD9": "",
+   "STYLE": "Colours",
+   "STATUS": ""
   },
   {
    "SKU": "101174 ",
@@ -178,7 +178,7 @@
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "MANDALAS",
+   "STYLE": "MARBLE",
    "STATUS": ""
  },
  {
@@ -191,7 +191,7 @@
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "MANDALAS",
+   "STYLE": "MARBLE",
    "STATUS": ""
  },
  {
@@ -204,7 +204,7 @@
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "MANDALAS",
+   "STYLE": "MARBLE",
    "STATUS": ""
  },
  {
@@ -217,7 +217,7 @@
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "",
+   "STYLE": "MARBLE",
    "STATUS": ""
  },
  {
@@ -230,7 +230,7 @@
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "MANDALAS",
+   "STYLE": "MARBLE",
    "STATUS": ""
  },
  {
@@ -243,7 +243,7 @@
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "MANDALAS",
+   "STYLE": "MARBLE",
    "STATUS": "NEW"
  },
  {
@@ -256,7 +256,7 @@
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "MANDALAS",
+   "STYLE": "MARBLE",
    "STATUS": "NEW"
  },
  {
@@ -269,7 +269,7 @@
    "ORDER QTY PACK OF  6": "",
    "FIELD8": "",
    "FIELD9": "",
-   "STYLE": "MANDALAS",
+   "STYLE": "MARBLE",
    "STATUS": ""
  },
  {
@@ -946,19 +946,6 @@
    "FIELD8": "",
    "FIELD9": "",
    "STYLE": "SUMMER",
-   "STATUS": ""
- },
- {
-   "SKU": "EYE BENDER",
-   "DESIGN": "",
-   "DESCRIPTION": "",
-   "ACCORDION": "",
-   "PLATFORM": "",
-   "BARCODE": "",
-   "ORDER QTY PACK OF  6": "",
-   "FIELD8": "",
-   "FIELD9": "",
-   "STYLE": "",
    "STATUS": ""
  },
  {
