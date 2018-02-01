@@ -7,7 +7,6 @@ export default class Form extends React.Component {
       newProduct: {
         sku: '',
         description: '',
-        accordion: '',
 
       }
     }
@@ -26,7 +25,6 @@ export default class Form extends React.Component {
     this.setState({newProduct: {
       sku: '',
       description: ''
-      accordion: ''
     }})
     console.log(this.this.state)
   }
@@ -36,7 +34,6 @@ export default class Form extends React.Component {
     return <form onSubmit={this.onSubmit}>
       <h1>Enter the PopSocket</h1>
       <input placeholder="SKU" type="integer" onChange={this.updateField} value={sku} />
-      <input placeholder="Description" type="text" onChange={this.updateField} value={description} />
       <input placeholder="Description" type="text" onChange={this.updateField} value={description} />
         <input type="Submit" value="Enter the PopSocket" />
     </form>
