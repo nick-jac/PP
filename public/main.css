@@ -1,0 +1,13 @@
+.container {
+  background: linear-gradient(#31aadf, #d8f2fc);
+  display: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+
+.input {
+
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}

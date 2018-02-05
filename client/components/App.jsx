@@ -12,8 +12,12 @@ import Form from './Form'
 // }
 
 export default function App (props) {
-  return <div>
-    <h1>This is the new App</h1>
-    <Form />
+  return<div>
+    <div className='container'>
+      <center>
+        <h1>POP SOCKETS DATABASE</h1>
+        <Form />
+      </center>
+    </div>
   </div>
 }
