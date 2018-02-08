@@ -11,6 +11,7 @@ export function getProduct (callback) {
 }
 
 export function updateProduct (product, callback) {
+console.log('api', product)
   request
     .post(productUrl)
     .send(product)
