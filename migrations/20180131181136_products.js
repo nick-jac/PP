@@ -1,6 +1,6 @@
 
-exports.up = function(knex, Promise) {
-  return knex.schema.createTable('products', function(table) {
+exports.up = function(knex, Promise){
+return knex.schema.createTableIfNotExists('products', function(table) {
     table.increments()
     table.integer('SKU')
     table.string('DESIGN')
@@ -14,9 +14,10 @@ exports.up = function(knex, Promise) {
     table.string('STYLE')
     table.string('STATUS')
     table.timestamps()
-})
-};
+  })
+
+}
 
 exports.down = function(knex, Promise) {
   knex.schema.dropTable('products')
-};
+}
