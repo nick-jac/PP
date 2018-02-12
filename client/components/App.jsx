@@ -1,5 +1,6 @@
 import React from 'react'
 import Form from './AddProduct'
+//import DisplayProduct from './DisplayProduct'
 
 // export default class App extends React.Component {
 //   constructor(props) {
@@ -21,3 +22,14 @@ export default function App (props) {
     </div>
   </div>
 }
+
+
+// class App extends React.Component {
+//   render() {
+//     return (
+//       <div>
+//         <Header />
+//       </div>
+//     )
+//   }
+// }

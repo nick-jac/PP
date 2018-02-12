@@ -47,6 +47,8 @@ export default class Form extends React.Component {
     this.props.submitCallback(product)
   }
 
+
+
   render() {
     //console.log(this.state.newProduct)
     console.log(this.onSubmit)
