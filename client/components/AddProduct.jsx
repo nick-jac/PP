@@ -54,6 +54,7 @@ export default class Form extends React.Component {
     console.log(this.onSubmit)
     const {sku, description, accordion, platform, barcode, style, status} = this.state.newProduct
     return <div className="flex-container">
+<body>
       <form onSubmit={this.onSubmit}>
       <h1>Enter PopSocket here</h1>
       <div><input name="sku" placeholder="SKU" type="integer" onChange={this.updateField} value={this.state.newProduct.sku} /></div>
@@ -65,6 +66,15 @@ export default class Form extends React.Component {
       <div><input name="status" placeholder="Status" type="text" onChange={this.updateField} value={this.state.newProduct.status} /></div>
       <input name="Submit" type="Submit" value="Enter the PopSocket"/>
        </form>
-      </div>
+       <br />
+       <form>
+         <h1>View PopSocket Image Here</h1>
+         <div><input name="description" placeholder="Name" type="select" onChange={this.product} value={this.state.newProduct.description} /></div>
+         <input name="Submit" type="Submit" value="View PopSocket"/>
+       </form>
+       <div className= 'footer'><h1>Footer</h1></div>
+  </body>
+
+</div>
   }
 }
