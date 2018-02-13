@@ -1,6 +1,6 @@
 import request from 'superagent'
 
-const productUrl = 'http://:3000'
+const productUrl = 'http://:3000/api'
 
 export function getProduct (callback) {
   request
@@ -10,12 +10,13 @@ export function getProduct (callback) {
     })
 }
 
-export function updateProduct (product, callback) {
+export function addProduct (product, callback) {
 console.log('api', product)
   request
     .post(productUrl)
     .send(product)
     .end((err, res) => {
-      callback(err)
+      err && console.log('error', err)
+      callback(res)
     })
 }

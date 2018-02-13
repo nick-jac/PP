@@ -33,29 +33,31 @@ export default class Form extends React.Component {
     this.save()
   }
 
-  save() {
+   save() {
+console.log(api)
     const product = this.state.newProduct
-    this.setState({newProduct: {
-      sku: '',
-      description: '',
-      accordion: '',
-      platform: '',
-      barcode: '',
-      style: '',
-      status: ''
-    }})
-    this.props.submitCallback(product)
-  }
+    api.addProduct(products, () => {
+      this.setState({newProduct: {
+        sku: '',
+        description: '',
+        accordion: '',
+        platform: '',
+        barcode: '',
+        style: '',
+        status: ''
+      }})
+    })
+ }
 
 
 
   render() {
     //console.log(this.state.newProduct)
-    console.log(this.onSubmit)
+    //console.log(this.onSubmit)
     const {sku, description, accordion, platform, barcode, style, status} = this.state.newProduct
-    return <div className="flex-container">
+    return <div className="row-container">
 <body>
-      <form onSubmit={this.onSubmit}>
+      <form className="container" onSubmit={this.onSubmit}>
       <h1>Enter PopSocket here</h1>
       <div><input name="sku" placeholder="SKU" type="integer" onChange={this.updateField} value={this.state.newProduct.sku} /></div>
       <div><input name="description" placeholder="Name" type="text" onChange={this.updateField} value={this.state.newProduct.description} /></div>
@@ -64,13 +66,7 @@ export default class Form extends React.Component {
       <div><input name="barcode" placeholder="Barcode" type="integer" onChange={this.updateField} value={this.state.newProduct.barcode} /></div>
       <div><input name="style" placeholder="Style" type="text" onChange={this.updateField} value={this.state.newProduct.style} /></div>
       <div><input name="status" placeholder="Status" type="text" onChange={this.updateField} value={this.state.newProduct.status} /></div>
-      <input name="Submit" type="Submit" value="Enter the PopSocket"/>
-       </form>
-       <br />
-       <form>
-         <h1>View PopSocket Image Here</h1>
-         <div><input name="description" placeholder="Name" type="select" onChange={this.product} value={this.state.newProduct.description} /></div>
-         <input name="Submit" type="Submit" value="View PopSocket"/>
+      <input name="Submit" type="Submit" value="Enter PopSocket"/>
        </form>
        <div className= 'footer'><h1>Footer</h1></div>
   </body>

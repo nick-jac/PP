@@ -1,7 +1,7 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 const path = require('path')
-// const userRoutes = require('./routes/users')
+const productRoutes = require('./routes/product')
 
 const server = express()
 
@@ -12,7 +12,7 @@ server.use(express.static(path.join(__dirname, '../public')))
 
 // Routes
 
-// server.use('/', userRoutes)
+server.use('/api', productRoutes)
 
 const knex = require('knex')
 var config = require('../knexfile').development

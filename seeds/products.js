@@ -5,19 +5,7 @@ exports.seed = function(knex, Promise) {
   return knex('products').del()
     .then(function () {
 
-      //console.log(productData)
 
-  //     { SKU: '101000 ',
-  // DESIGN: '',
-  // DESCRIPTION: 'Black',
-  // ACCORDION: 'Black ',
-  // PLATFORM: 'Black',
-  // BARCODE: '859184004454',
-  // 'ORDER QTY PACK OF  6': '',
-  // FIELD8: '',
-  // FIELD9: '',
-  // STYLE: 'Colours',
-  // STATUS: '' }
 
 
       var data = productData.map((product)=>{
@@ -36,7 +24,7 @@ exports.seed = function(knex, Promise) {
         }
       })
 
-      // Inserts seed entries
+
       return knex('products').insert(data);
     });
 };
