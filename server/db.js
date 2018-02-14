@@ -27,7 +27,7 @@ function getProducts(testConn) {
 function insertNewProducts(getProducts, callback) {
 console.log(getProducts)
   request
-  .post()
+  .post(addProduct)
   .send({accordion:"", barcode:"", description:"", platform:"", sku:"", status:"", style:""})
   //.end(function(err, res)
 }

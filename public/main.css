@@ -1,9 +1,13 @@
 .container {
   background: linear-gradient(#31aadf, #d8f2fc);
-  display: center;
-  flex-wrap: nowrap;
-  flex-direction: row;
-  width: 100%;
+
+
+
+
+}
+.items {
+  order: 2;
+  display: left;
 }
 
 .body {

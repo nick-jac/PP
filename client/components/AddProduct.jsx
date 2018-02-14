@@ -28,8 +28,8 @@ export default class Form extends React.Component {
   }
   onSubmit(e) {
     e.preventDefault()
-    console.log(e)
-    console.log(this.state.newProduct)
+    //console.log(e)
+    //console.log(this.state.newProduct)
     this.save()
   }
 
@@ -68,8 +68,20 @@ console.log(api)
       <div><input name="status" placeholder="Status" type="text" onChange={this.updateField} value={this.state.newProduct.status} /></div>
       <input name="Submit" type="Submit" value="Enter PopSocket"/>
        </form>
+
+       <h1>View PopSocket Image Here</h1>
+         <div class="field"><label class="label">Subject</label>
+
+        <div class="control">
+             <div class="select">
+               <select>
+                 <option>Select dropdown</option>
+                 <option>With options</option>
+               </select>
+             </div>
+           </div>
+         </div>
        <div className= 'footer'><h1>Footer</h1></div>
-      
   </body>
 
 </div>
