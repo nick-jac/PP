@@ -69,6 +69,7 @@ console.log(api)
       <input name="Submit" type="Submit" value="Enter PopSocket"/>
        </form>
        <div className= 'footer'><h1>Footer</h1></div>
+      
   </body>
 
 </div>

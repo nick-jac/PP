@@ -14,6 +14,7 @@ router.post('/', function(req, res){
   db.insertNewProducts()
   .then(function(data){
     res.json(data)
+  .insert(newProduct, )
   })
   //db.addProduct(req.body)
   //console.log(req, req.body)
