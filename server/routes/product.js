@@ -11,7 +11,7 @@ router.get('/', function(req, res) {
 })
 
 router.post('/', function(req, res){
-  db.addProducts()
+  db.insertNewProducts()
   .then(function(data){
     res.json(data)
   })

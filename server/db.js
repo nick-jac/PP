@@ -5,7 +5,8 @@ const connection = require('knex')(config)
 module.exports = {
   getUser: getUser,
   getUsers: getUsers,
-  getProducts: getProducts
+  getProducts: getProducts,
+  insertNewproducts: insertNewProducts
 }
 
 function getUsers(testConn) {
@@ -23,6 +24,7 @@ function getProducts(testConn) {
   return conn('products').select()
 }
 
-function addProducts() {
+function insertNewProducts(getProducts, callback) {
+console.log(getProducts)
 
 }
