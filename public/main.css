@@ -1,9 +1,18 @@
 .container {
   background: linear-gradient(#31aadf, #d8f2fc);
   align-content: flex-start;
+}
 
+.columns {
+  column-width: auto;
+}
 
-
+.columna {
+column-width: auto;
+}
+.containerb {
+column-width: 200px;
+}
 
 }
 .items {

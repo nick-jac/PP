@@ -1,5 +1,6 @@
 import React from 'react'
 import Form from './AddProduct'
+//import connect from 'react-redux'
 //import DisplayProduct from './DisplayProduct'
 
 // export default class App extends React.Component {
@@ -17,6 +18,7 @@ export default function App (props) {
     <div className='container'>
       <center>
         <h1>POP SOCKETS DATABASE</h1>
+        <br/>
         <Form />
       </center>
     </div>

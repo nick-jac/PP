@@ -2,6 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import request from 'superagent'
 import App from './components/App'
+//import connect from 'react-redux'
 
 // function helloTemplate (props) {
 //  return(
@@ -35,5 +36,3 @@ export function makeDonation(donationDetails) {
       })
     }
   }
-
-  
