@@ -11,8 +11,10 @@ router.get('/', function(req, res) {
   })
 })
 
-router.post('/', function(req, res){
-  db.insertNewProducts(req.body)
+router.post('/', (req, res) => {
+  const newProduct = req.body
+  console.log('api.js', req.body)
+  db.addProduct(newProduct)
   .then(function(ids){
     res.json(ids)
   //.insert(newProduct, [sku])
@@ -27,4 +29,13 @@ router.post('/', function(req, res){
 //   res.json(db.getProducts())
 // })
 
+router.get('/', (req, res) => {
+  db.getProducts()
+    .then(products => {
+      res.render('index', { products: products })
+    })
+    .catch(err => {
+      res.status(500).send('DATABASE ERROR: ' + err.message)
+    })
+})
 module.exports = router

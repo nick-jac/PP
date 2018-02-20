@@ -20,3 +20,7 @@ console.log('api', product)
       callback(res)
     })
 }
+
+module.exports = [
+  addProduct: addProduct
+]

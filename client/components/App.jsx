@@ -1,5 +1,6 @@
 import React from 'react'
 import Form from './AddProduct'
+import {addproduct} from '../api'
 //import connect from 'react-redux'
 //import DisplayProduct from './DisplayProduct'
 

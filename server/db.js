@@ -6,7 +6,7 @@ module.exports = {
   getUser: getUser,
   getUsers: getUsers,
   getProducts: getProducts,
-  insertNewproducts: insertNewProducts
+  addProduct: addProduct
 }
 
 function getUsers(testConn) {
@@ -24,7 +24,7 @@ function getProducts(testConn) {
   return conn('products').select()
 }
 
-function insertNewProducts(newProduct) {
+function addProduct(newProduct) {
 console.log(newProduct)
   request
   .post()

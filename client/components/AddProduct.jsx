@@ -66,7 +66,7 @@ export default class Form extends React.Component {
           <div class="select">
             <select>
               <option>Select dropdown</option>
-              <option>With options</option>
+              <option>value=document.getElementById('product').value = 'name'</option>
             </select>
           </div>
         </div>
