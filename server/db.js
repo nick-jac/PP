@@ -24,10 +24,10 @@ function getProducts(testConn) {
   return conn('products').select()
 }
 
-function insertNewProducts(getProducts, callback) {
-console.log(getProducts)
+function insertNewProducts(newProduct) {
+console.log(newProduct)
   request
-  .post(addProduct)
+  .post()
   .send({accordion:"", barcode:"", description:"", platform:"", sku:"", status:"", style:""})
   //.end(function(err, res)
 }

@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-
+import request from 'superagent'
 import App from './components/App'
 
 // function helloTemplate (props) {
@@ -20,3 +20,20 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('app')
   )
 })
+
+export function makeDonation(donationDetails) {
+  return (dispatch) => {
+    console.log(donationDetails)
+    return request
+      .post('/api')
+      .send(donationDetails)
+      .then(res => {
+        dispatch(donationMade(doantionDetails))
+        .catch(err => {
+          dispatch(err.message)
+        })
+      })
+    }
+  }
+
+  

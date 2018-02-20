@@ -1,0 +1,73 @@
+Project setup:
+
+final stack
+
+api(rest http server) - express(server)
+React (client to the api) - superagent(client)
+Redux - Thunk(connection code)
+db - knex(translater)  -SQLite3 - Post Gres
+ES6 - Babel(transpiler)
+Nodemon ()
+Webpack ()
+Source Control - Git
+
+
+Web Server (client) http Get request
+
+Web Browser (server) http res
+
+http is a protocol
+client is a translater to the server eg http request
+database is persistant
+
+create repo (origin)
+git clone (local)
+git init .
+git add remote
+touch README.md (touch create file)
+
+yarn install
+yarn init . (package json)
+mkdir Server
+mkdir client
+mkdir public
+mkdir test
+touch client /.gitkeep (to all)
+
+touch server/index.js
+touch server/server.js
+
+see react to web api
+
+package.json
+  scripts
+      start nodeserver
+
+yarn add express
+
+
+touch public index.html
+  server .js server.use
+touch public main.css
+
+yarn add webpack
+
+touch webpack config.js
+touch client/index.js
+
+yarn webpack
+
+
+rm bundle.js to public folder
+
+
+commit
+
+
+git unstage
+
+yarn.lock
+
+yarn add redux
+yarn add react-redux
+yarn add redux-thunk 
